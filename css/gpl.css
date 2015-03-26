@@ -1,0 +1,45 @@
+body {
+  background: url(../images/background.png);
+
+}
+.reveal h1 {
+    font-size: 1em;
+    text-align: left;
+    color: rgb(114, 194, 92);
+    padding-left: 65px;
+    margin-bottom: 60px;
+  }
+
+.reveal .match-header {
+  background-color: rgb(162, 200, 85);
+  padding: 1px 0px 1px 10px;
+  width: 610px;
+  border-width: 3px;
+  border-color: white;
+  border-style: solid;
+}
+.match-header p {
+  text-align: left;
+  font-size: 30px;
+  line-height: 0.5;
+}
+
+.reveal .main {
+  float: left;
+  padding-top: 50px;
+}
+
+.reveal section img {
+  height: 118px;
+  width: 153px;
+}
+
+.reveal .votes {
+  width: 600px;
+  margin-top: 50px;
+}
+.reveal .votes li {
+  float: left;
+  list-style-type: none;
+  width: 180px;
+}
